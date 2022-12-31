@@ -1,4 +1,6 @@
-### Hello, I'm Nacho👋🧑‍💻
+### Hello, my name is Nacho👋
+
+#### I'm Web Developer🧑‍💻
 
 ## Tecnologías:
 [![html](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=HTML5&logoColor=white&labelColor=101010)]()
